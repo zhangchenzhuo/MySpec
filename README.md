@@ -1,0 +1,1 @@
+My podspec and SPMs
